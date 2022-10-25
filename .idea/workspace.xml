@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5a01572-8477-48ee-b26b-92655a7d950c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/script.php" afterDir="false" />
-    </list>
+    <list default="true" id="d5a01572-8477-48ee-b26b-92655a7d950c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666725897746</updated>
       <workItem from="1666725902116" duration="13000" />
-      <workItem from="1666725918071" duration="33000" />
+      <workItem from="1666725918071" duration="332000" />
     </task>
     <servers />
   </component>
